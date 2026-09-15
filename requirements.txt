@@ -1,0 +1,11 @@
+datasets
+transformers
+peft
+accelerate
+sentencepiece
+scikit-learn
+pandas
+matplotlib
+langchain-core
+langgraph
+torch
